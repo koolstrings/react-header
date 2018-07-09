@@ -1,0 +1,3 @@
+rootProject.name = 'imsApp'
+
+include ':app'
